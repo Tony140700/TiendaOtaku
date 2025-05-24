@@ -1,0 +1,5 @@
+com\example\tiendaotaku\servicio\ProductoOtakuService.class
+com\example\tiendaotaku\model\ProductoOtaku.class
+com\example\tiendaotaku\controlador\ProductoOtakuController.class
+com\example\tiendaotaku\TiendaOtakuApplication.class
+com\example\tiendaotaku\repositorio\ProductoOtakuRepositorio.class
